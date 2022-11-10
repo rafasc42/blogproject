@@ -1,0 +1,3 @@
+# NOTES
+
+this is just a note to make the git notice this folder
