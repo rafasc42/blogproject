@@ -1,0 +1,24 @@
+{
+  "name": "bloggin-site",
+  "version": "1.0.0",
+  "description": "a beginners journey on making a working blog that can post delet update news maintain connection.",
+  "main": "server.js",
+  "scripts": {
+  	"start":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafasc42/blogproject.git"
+  },
+  "author": "rafael borges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafasc42/blogproject/issues"
+  },
+  "homepage": "https://github.com/rafasc42/blogproject#readme",
+  "dependencies": {
+    "express-fileupload": "^1.4.0",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
